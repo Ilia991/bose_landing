@@ -1,4 +1,4 @@
-Small art museum project
+One page project with bose products
 
 Technologies such as HTML BEM SASS were used in development
 
